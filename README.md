@@ -26,11 +26,11 @@ ___
 ## trophy
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AminYousfi)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ___
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AminYousfi&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AminYousfi&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AminYousefi&hide_progress=true)
