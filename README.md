@@ -23,6 +23,11 @@ ___
 
 ___
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=AminYousfi)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+___
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AminYousfi&show_icons=true&theme=transparent)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AminYousefi&hide_progress=true)
