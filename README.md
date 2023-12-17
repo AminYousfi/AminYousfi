@@ -3,7 +3,7 @@ My name is Amin Yousefi 😄
 
 I was born in Qazvin , Iran. ( 21 March 2005 ) 
 
-I'm a front-end Devloper 🎈
+I'm a front-end Devloper(Junior) 🎈
 ___
 
 ### My Skills :
